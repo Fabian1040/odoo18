@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.swp
+*.tmp
+*.bak
+*.idea/
+*.vscode/
+.odoo/
+.env
+
